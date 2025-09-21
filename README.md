@@ -18,8 +18,8 @@ Dan jika bingung atau ingin mencari rekomendasi bisa kita tanyakan AI.
 - Add, edit, and delete movies, anime, atau buku
 - sorting dari category (movie, anime, buku) dan dari genre (action, romance,)
 -Bantuan AI:
-   -Mencari film, buku atau anime yang ingin ditonton
-   -Bisa merekomendasikan film buku atau anime yang lagi hangat sekarang
+-Mencari film, buku atau anime yang ingin ditonton
+-Bisa merekomendasikan film buku atau anime yang lagi hangat sekarang
 
 ## setup instraction
 1. clone repositorynya
